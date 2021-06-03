@@ -13,7 +13,6 @@
   * Schema-free, Simple to use, Nimble and In-Memory database.
   * Whether it's a Dynamic Website or a Mobile App or some Data Analytics Portal, the development is real fun and fast. 
   * It is one of the fastest and multi-indexing database.
-  * It is easy to learn and use.
   * It helps developers in faster coding, in-turn reduces development cost.
   * It is easy to learn and use.
 
