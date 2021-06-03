@@ -21,4 +21,5 @@
 ### Release History: ###
 
   This release allows any intern to get registered before applying to any post.
+  
   Technology stack: JsonPowerDB, HTML,Bootstrap and jQuery.
