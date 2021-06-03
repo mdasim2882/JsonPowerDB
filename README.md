@@ -1,6 +1,6 @@
 # JsonPowerDB
 
-About JsonPowerDB:
+**About JsonPowerDB:**
 
 
  JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS.
@@ -9,7 +9,7 @@ About JsonPowerDB:
 
    
 
-#Benefits of using JsonPowerDBs
+**Benefits of using JsonPowerDBs**
 
   Simplest way to retrieve data in a JSON format.
   Schema-free, Simple to use, Nimble and In-Memory database.
@@ -20,7 +20,7 @@ About JsonPowerDB:
   It is easy to learn and use.
 
     
-#Release History:
+**Release History:**
 
   This release allows any intern to get registered before applying to any post.
   Technology stack: JsonPowerDB, HTML,Bootstrap and jQuery.
