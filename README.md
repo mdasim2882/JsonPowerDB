@@ -23,4 +23,4 @@
   This release allows any intern to get registered before applying to any post.
   
   Technology stack: JsonPowerDB, HTML,Bootstrap and jQuery.
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](chrome://branding/content/about-logo.png)
